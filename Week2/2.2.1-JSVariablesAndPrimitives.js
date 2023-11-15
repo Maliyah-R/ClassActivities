@@ -10,7 +10,7 @@ let day = "Tuesday";
 
 let movement = "go";
 let age = 29;
-const lifeStatus = "alive";
+const  = "alive";
 
 // print the types of two variables that reference two different data types (typeof)
 // TIP: console.log() prints a value in the console/terminal
