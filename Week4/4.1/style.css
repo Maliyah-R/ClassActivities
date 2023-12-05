@@ -1,0 +1,68 @@
+/* stylesheet */
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1.enjoyments {
+  background-color: blueviolet;
+  color: white;
+}
+
+h1.favorites {
+  background-color: blueviolet;
+  color: white;
+}
+
+li:hover {
+}
+
+li:first-child {
+  border: 30px black;
+  background-color: rgb(137, 194, 137);
+  color: white;
+}
+
+body:hover {
+  background-color: black;
+  color: white;
+}
+
+h1, h2, .favorites {
+  background-color: slateblue;
+  color: white;
+}
+
+#myList > li_{
+  background-color: green;
+  color: white;
+}
+
+h1 + p {
+  background-color: green;
+  color: white;
+}
+
+* {
+  border: 15px gold;
+}
+
+.ul {
+  padding: 10px;
+  margin: 20px;
+  background-color: purple;
+  color: white;
+}
+
+.li {
+  padding: 15px;
+  margin-top: 5px;
+  background-color: green;
+  color: white;
+}
+
+a:hover {
+  color: green;
+  background-color: white;
+}
